@@ -1,6 +1,11 @@
-# test-project
+# Vue Example
 
-> A Vue.js project
+> This example shows that how to handle the content distribution with Slots.
+> * Handle multiple slots with Named Slots like `<slot name="codeSlot"></slot>`.
+> * Parent passes data to child via the `props` option.
+> * Parent accesses data from child via the `slot-scope` attribute.
+> 
+> See a demo at [https://codesandbox.io/s/github/webther/Vue-Example-Component-Slot](https://codesandbox.io/s/github/webther/Vue-Example-Component-Slot)
 
 ## Build Setup
 
