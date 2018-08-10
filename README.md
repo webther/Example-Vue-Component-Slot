@@ -5,7 +5,7 @@
 > * Parent passes data to child via the `props` option.
 > * Parent accesses data from child via the `slot-scope` attribute.
 > 
-> See a demo at [https://codesandbox.io/s/github/webther/Vue-Example-Component-Slot](https://codesandbox.io/s/github/webther/Vue-Example-Component-Slot)
+> See a demo at [https://codesandbox.io/s/github/webther/Example-Vue-Component-Slot](https://codesandbox.io/s/github/webther/Example-Vue-Component-Slot)
 
 ## Build Setup
 
